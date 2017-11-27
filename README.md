@@ -3,9 +3,9 @@
 I'll try to keep this list updated.
 
 If the document is not copyrighted, I'll provide the document.
+
 (If you would like to contact me, Please send me an e-mail.)
 
-Util: Intel SGX's enhancements, 
 e-mail: ktw1332@korea.ac.kr
 
 | Title | Kind |
